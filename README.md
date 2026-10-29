@@ -1,5 +1,6 @@
 # Amazon-Engineering-Challenge---EDB2
 Código fonte do programa desenvolvido para a atividade e instruções para rodar e usá-lo.
+
 Autor: Henri Felipe Tomaz Bezerra Costa
 
 Este programa visa simular as árvores AVL e LLRB. Ele permite fazer operações em ambas e visualizar suas rotações e o balanceamento final da árvore.
