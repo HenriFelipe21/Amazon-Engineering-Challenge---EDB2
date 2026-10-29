@@ -66,4 +66,4 @@ Algumas decisões de implementação:
 4. Menu interativo
 5. toggle de visualização
 6. implementação de contador de rotações por totalRotacoesAVL e arvore->rotacoes para facilitar contagem
-7. tratamento de erros
+7. tratamento de erros com print de mensagens
