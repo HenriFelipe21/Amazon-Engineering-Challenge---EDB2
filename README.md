@@ -4,7 +4,7 @@ Autor: Henri Felipe Tomaz Bezerra Costa
 
 Este programa visa simular as árvores AVL e LLRB. Ele permite fazer operações em ambas e visualizar suas rotações e o balanceamento final da árvore.
 
-Programa escrito em C, testado e compilado no Windows 11.
+Programa escrito em C, testado e compilado no Windows 11. (funcionou perfeitamente aqui)
 
 Instruções para uso: 
 Ao executar o programa, ele pede para que o usuário escolha uma das árvores, digite 1 no terminal para AVL e 2 para a Rubro Negra LLRB.
