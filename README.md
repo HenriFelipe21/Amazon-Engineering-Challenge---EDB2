@@ -10,13 +10,13 @@ Instruções para uso:
 Ao executar o programa, ele pede para que o usuário escolha uma das árvores, digite 1 no terminal para AVL e 2 para a Rubro Negra LLRB.
 
 Após isso, o usuário será apresentado com um menu. O programa conta com 8 opções no menu, sendo elas:
-1. Inserir elemento
-2. Remover elemento
-3. Buscar elemento
+1. Inserir elemento - "Exemplo de uso: 1 -> enter -> 15 -> enter"
+2. Remover elemento - "Exemplo de uso: 2 -> enter -> 20 -> enter"
+3. Buscar elemento - "Exemplo de uso: 3 -> enter -> 10 -> enter"
 4. Exibir percurso em ordem (crescente)
 5. Visualizar estrutura da árvore
 6. Alternar visualização automática
-7. Trocar tipo de árvore
+7. Trocar tipo de árvore - "Exemplo de uso: 7 -> enter -> 2 -> enter"
 8. Sair e fechar o programa.
 
 Para realizar essas funções basta digitar o número dela no terminal e apertar enter.
