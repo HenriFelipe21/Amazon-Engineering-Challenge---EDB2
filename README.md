@@ -57,3 +57,12 @@ ou
 gcc -std=c99 edbv3.c -o edbamazon -Wall
 ./edbamazon
 
+
+Algumas decisões de implementação:
+1. A inserção e a remoção foram implementadas de forma recursiva na avl e LLRB
+2. A função de inserção retorna um ponteiro booleano *inserido indicando se a chave já existia e bloqueia duplicatas
+3. Visualização por Cores ANSI na LLRB
+4. Menu interativo
+5. toggle de visualização
+6. implementação de contador de rotações por totalRotacoesAVL e arvore->rotacoes para facilitar contagem
+7. tratamento de erros
