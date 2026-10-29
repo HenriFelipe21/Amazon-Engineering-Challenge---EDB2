@@ -423,7 +423,7 @@ int main() {
     bool autoVisualizar = true;
     int opcao, valor;
 
-    printf("=== AMAZON ENGINEERING CHALLENGE: ARVORES BALANCEADAS (LLRB) ===\n");
+    printf("=== AMAZON ENGINEERING CHALLENGE: ARVORES BALANCEADAS ===\n");
     printf("Selecione a estrutura inicial:\n");
     printf("1. Arvore AVL\n");
     printf("2. Arvore Rubro-Negra (LLRB)\n");
